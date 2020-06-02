@@ -4,4 +4,4 @@ Contains :</br>
   Basics of numpy and pandas library </br>
   How to import data.</br>
   Visualisation using matplotlib and seaborn.</br>
-  Machine learning models like regression, classification,decision tree etc implemented on various dataset.</br>
+  Machine learning algorithms like regression, classification,decision tree etc implemented on various dataset.</br>
